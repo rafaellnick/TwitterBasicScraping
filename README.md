@@ -1,6 +1,6 @@
 # TwitterBasicScraping
 
-This is a basic Twitter Scraping project done to help with my friend Nathalie's graduation thesis
+This is a basic Twitter Scraping project done to help with my friend Nathalie's graduation thesis  
 It features a simple Python project
 
 ## Installation and usage
